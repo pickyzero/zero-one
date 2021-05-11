@@ -1,4 +1,4 @@
 # zero-one
 Just a respository
 Hi,humans!
-I come from mars.
+I come from Mars.
